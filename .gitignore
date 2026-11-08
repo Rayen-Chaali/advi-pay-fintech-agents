@@ -1,0 +1,8 @@
+.env
+__pycache__/
+.vscode/
+venv/
+node_modules/
+Hrissa-Hacks/
+.DS_Store
+Thumbs.db
